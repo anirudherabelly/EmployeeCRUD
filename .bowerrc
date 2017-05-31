@@ -1,0 +1,5 @@
+{
+    "directory":"public/libs",
+    "proxy": "http://172.22.218.218:8085",
+    "https-proxy":"http://172.22.218.218:8085"
+}
